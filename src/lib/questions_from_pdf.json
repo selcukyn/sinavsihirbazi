@@ -1,0 +1,653 @@
+
+[
+  {
+    "questionNumber": 1,
+    "questionText": "Buruk ve hüzünlü yanına rağmen yeni popüler sinemada taşra ----; ruhsuz, niteliksiz bir mekân olarak tasvir edilip aksine katıksız samimiyet, coşku ve neşenin odağı olarak gösterilen taşraya; coğrafi, tarihsel ve kültürel özelliklerini vurgulayan özgün bir yüz edindirme, bir ---- çabası görülür.",
+    "options": {
+      "A": "iç karartmaz / kimlik kazandırma",
+      "B": "durağanlık kazanmaz / canlılık katma",
+      "C": "atmosferi gölgelemez / anlam yükleme",
+      "D": "çatışma oluşturmaz / mekân giydirme",
+      "E": "seyirciyi yormaz / boyut açma"
+    },
+    "sourcePage": "page_1_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 2,
+    "questionText": "(2⁻⁴ + 2⁻⁵)⁻¹ · (3⁻¹ - 3⁻²) işleminin sonucu kaçtır?",
+    "options": {
+      "A": "45",
+      "B": "48",
+      "C": "54",
+      "D": "60",
+      "E": "72"
+    },
+    "sourcePage": "page_1_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "√3√68 + √51√153 işleminin sonucu kaçtır?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "33",
+      "D": "34",
+      "E": "35"
+    },
+    "sourcePage": "page_1_vision_response.json",
+    "correctOptionId": "e"
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "0.8 / 0.9 + (0.3)² işleminin sonucu kaçtır?",
+    "options": {
+      "A": "0.89",
+      "B": "0.92",
+      "C": "0.95",
+      "D": "0.98",
+      "E": "1"
+    },
+    "sourcePage": "page_1_vision_response.json",
+    "correctOptionId": "e"
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "A, B ve C birbirinden farklı rakamlar olmak üzere, iki basamaklı CA doğal sayısı 4 ile tam bölünmektedir. A5B + C3 = 7BA olduğuna göre, A + B + C toplamı kaçtır?",
+    "options": {
+      "A": "15",
+      "B": "16",
+      "C": "17",
+      "D": "18",
+      "E": "19"
+    },
+    "sourcePage": "page_1_vision_response.json",
+    "correctOptionId": "d"
+  },
+  {
+    "questionNumber": 6,
+    "questionText": "a ve b pozitif tam sayılar olmak üzere, (a+b)/b, b, 24/a ifadeleri küçükten büyüğe doğru sıralanmış ardışık üç çift tam sayıdır. Buna göre, 1/a + 2/b toplamı kaçtır?",
+    "options": {
+      "A": "1/2",
+      "B": "3/4",
+      "C": "1",
+      "D": "5/4",
+      "E": "3/2"
+    },
+    "sourcePage": "page_1_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 7,
+    "questionText": "(1 - 3x) / (2x + 3) + 4 = 5/2 olduğuna göre, x kaçtır?",
+    "options": {
+      "A": "0.5",
+      "B": "1",
+      "C": "1.5",
+      "D": "2",
+      "E": "2.5"
+    },
+    "sourcePage": "page_1_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 8,
+    "questionText": "Ö ve T tam sayıları için verilen üç ifadeden ikisi çift sayı, biri ise tek sayıdır. Buna göre, I. Ö * T olabilir. II. Ö kesinlikle çift sayıdır. III. T kesinlikle çift sayıdır. ifadelerinden hangileri doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "sourcePage": "page_1_vision_response.json",
+    "correctOptionId": "d"
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "x, y ve z gerçel sayıları için 2x - y < x < 3x - z olduğuna göre, I. x < y, II. x < z, III. z < x + y ifadelerinden hangileri her zaman doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "I ve III",
+      "E": "II ve III"
+    },
+    "sourcePage": "page_1_vision_response.json",
+    "correctOptionId": "d"
+  },
+  {
+    "questionNumber": 10,
+    "questionText": "I. seyirciye oyun değil hayatın içinden gerçek II. olduğunu unutması için kostüm, dekor, makyaj III. oyuncunun “mış gibi yapmayı” bıraktığında başarılı IV. bir yaşam parçası sunulmalı ve seyircinin tiyatroda V. olacağını savunan oyunculuk ekolüne göre VI. ve ışık unsurları gerçekçi bir şekilde kullanılmalıdır Yukarıdaki sözler anlamlı ve kurallı bir cümle oluşturacak biçimde sıralandığında, hangisi baştan ikinci olur?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "sourcePage": "page_2_vision_response.json",
+    "correctOptionId": "e"
+  },
+  {
+    "questionNumber": 11,
+    "questionText": "I. hatta yok edilebildiği için yaratıcı insanlar II. hassas bitkiler gibi olan yenilikçi fikirler III. eleştiriler nedeniyle kolayca zarar görebildiği IV. çalışmalarını uygun bir ortam oluşmadan V. henüz yeterince anlaşılamadan yapılacak yanlış VI. başkalarıyla paylaşmamakta haklıdır Yukarıdaki sözler anlamlı ve kurallı bir cümle oluşturacak biçimde sıralandığında, hangisi baştan dördüncü olur?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "sourcePage": "page_2_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 12,
+    "questionText": "I. Akımın benimsenmesi ve yaygınlaştırılması için kullanıcılardan bu tercihlerini sosyal medyada paylaşmaları isteniyor. II. Akımı destekleyen oluşumlar döngüsel bir moda endüstrisi yaratmak için sürdürülebilir giyimle ilgili raporlar yayımlıyor. III. Böylelikle sürdürülebilir yaşam tarzını destekleyen güçlü bir sosyal etkileşim ağı oluşturulması hedefleniyor. IV. Bunun yanında geri dönüşüm odaklı giyim tercihi yapmaları konusunda kullanıcılara da rehberlik ediyor. V. Son dönemde popüler olan “İyilik İçin Moda” akımı, yenileyici bir moda endüstrisi oluşturmayı amaçlıyor. Yukarıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak biçimde sıralandığında, hangisi baştan üçüncü olur?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
+      "E": "V"
+    },
+    "sourcePage": "page_2_vision_response.json",
+    "correctOptionId": "d"
+  },
+  {
+    "questionNumber": 13,
+    "questionText": "(I) Yıldızlardan gelen ışınlar, atmosferin farklı sıcaklıktaki bölgelerinden geçerken yön değiştirir. (II) Bunun nedeni sıcaklık değişimlerinin etkisiyle Dünya'nın atmosferinde meydana gelen düzensizliklerdir. (III) Gökyüzünün açık bir gecede göğe baktığımızda yıldızları yanıp sönüyormuş gibi görmüşüzdür. (IV) Gelen ışınların yönü büyük oranda değiştiğinde yıldız kaybolmuş gibi görünürken oran düşükse daha parlak görünür. (V) Bu durum da yıldızların gökyüzünde yanıp sönüyormuş gibi algılanmasına neden olur. Yukarıdaki numaralanmış cümlelerle anlamlı bir paragraf oluşturulabilmesi için hangi cümlelerin birbiriyle yer değiştirmesi gerekir?",
+    "options": {
+      "A": "I ve II",
+      "B": "I ve IV",
+      "C": "II ve III",
+      "D": "III ve IV",
+      "E": "IV ve V"
+    },
+    "sourcePage": "page_2_vision_response.json",
+    "correctOptionId": "c"
+  },
+  {
+    "questionNumber": 14,
+    "questionText": "A, B ve C rakamları kullanılarak oluşturulan tüm ABC üç basamaklı sayılarının toplamı 2420 olduğuna göre, A + B + C toplamı kaçtır?",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "E": "22"
+    },
+    "sourcePage": "page_2_vision_response.json",
+    "correctOptionId": "c"
+  },
+  {
+    "questionNumber": 15,
+    "questionText": "Rakamları toplamı 8 olan iki basamaklı bir doğal sayının rakamları çarpımı aşağıdakilerden hangisi olamaz?",
+    "options": {
+      "A": "7",
+      "B": "12",
+      "C": "0",
+      "D": "16",
+      "E": "18"
+    },
+    "sourcePage": "page_2_vision_response.json",
+    "correctOptionId": "e"
+  },
+  {
+    "questionNumber": 16,
+    "questionText": "Beş basamaklı bir sayının birler ve onlar basamağındaki rakamların toplamı, diğer basamaklarındaki rakamların toplamına eşit ise bu sayıya “dengeli sayı” denir. A4CB8 ve A2C85 sayıları dengeli sayılar olduğuna göre A + B + C toplamı kaçtır?",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21",
+      "E": "22"
+    },
+    "sourcePage": "page_2_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 17,
+    "questionText": "A ve B şehirlerinden katılan kişi sayıları birbirine eşittir. A şehrinden katılanların 500'ü, B şehrinden katılanların ise 1200'ü lisans mezunu değildir. A şehrinden katılan lisans mezunlarının sayısı, B şehrinden katılan lisans mezunlarının sayısının 2 katından 500 fazladır. Buna göre, bu iki şehirden ankete katılanların toplam sayısı kaçtır?",
+    "options": {
+      "A": "2200",
+      "B": "2400",
+      "C": "2500",
+      "D": "2600",
+      "E": "2800"
+    },
+    "sourcePage": "page_3_vision_response.json",
+    "correctOptionId": "e"
+  },
+  {
+    "questionNumber": 18,
+    "questionText": "Bir film arşivinde bulunan filmler türlerine göre macera, komedi ve korku olmak üzere üç gruba ayrılmıştır. Bu arşivdeki korku filmlerinin sayısının komedi filmlerinin sayısına oranı 2/3, macera filmlerinin sayısının korku filmlerinin sayısına oranı ise 1/2'dir. Arşivde toplam 32 film olduğuna göre, macera filmlerinin sayısı kaçtır?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "9",
+      "E": "12"
+    },
+    "sourcePage": "page_3_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 19,
+    "questionText": "Bir fabrikada 2023 yılında üretilen toplam lastiklerin %65'i yaz, kalanı ise kış lastiğidir. Bu fabrikada 2024 yılında toplam üretim 2023 yılına göre %27, yaz lastiği üretimi ise 2023 yılına göre %20 artmıştır. Buna göre, bu fabrikada 2024 yılında kış lastiği üretimi 2023 yılına göre yüzde kaç artmıştır?",
+    "options": {
+      "A": "35",
+      "B": "40",
+      "C": "42",
+      "D": "45",
+      "E": "48"
+    },
+    "sourcePage": "page_3_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 20,
+    "questionText": "Çınar, Cemre ve Derya adlı üç arkadaşın bugünkü yaşlarıyla ilgili aşağıdakiler bilinmektedir. • Çınar ile Cemre'nin yaşları toplamının 3 katı, Derya'nın bugünkü yaşına eşittir. • 3 yıl sonra Derya'nın yaşı, Çınar'ın yaşının 3 katı olacaktır. Buna göre, Cemre'nin bugünkü yaşı kaçtır?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "sourcePage": "page_3_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 21,
+    "questionText": "Bir otobüs, A şehrinden B şehrine yapacağı yolculuğu saat 11.00'de başlayıp saat 21.00'de tamamlamayı planlamıştır. Sabit bir hızla saat 15.00'e kadar yol alan bu otobüs, bir arıza nedeniyle 1 saat mola vermiştir. B şehrine planlanan zamanda varabilmek için otobüsün mola sonrası hızı, başlangıçtaki hızına göre yüzde kaç artırılmıştır?",
+    "options": {
+      "A": "%20",
+      "B": "%25",
+      "C": "%30",
+      "D": "%40",
+      "E": "%50"
+    },
+    "sourcePage": "page_3_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 22,
+    "questionText": "Bir meteoroloji istasyonu, salı günü yağmur yağma olasılığını %80 olarak tahmin etmiştir. Ayrıca, salı günü yağmur yağarsa çarşamba günü yağmur yağma olasılığını %10, salı günü yağmur yağmazsa çarşamba günü yağmur yağma olasılığını %60 olarak tahmin etmiştir. Bu tahminlere göre, çarşamba günü yağmur yağma olasılığı yüzde kaçtır?",
+    "options": {
+      "A": "15",
+      "B": "18",
+      "C": "20",
+      "D": "24",
+      "E": "25"
+    },
+    "sourcePage": "page_3_vision_response.json",
+    "correctOptionId": "c"
+  },
+  {
+    "questionNumber": 23,
+    "questionText": "Bir okulda düzenlenen pasta ve pizza yapımı eğitimlerine katılanlarla ilgili aşağıdakiler bilinmektedir. • Pasta yapımı eğitimine katılan erkeklerin sayısı, kadınların sayısının 2 katıdır. • Pizza yapımı eğitimine katılan kadınların sayısı, erkeklerin sayısından 20 fazladır. • Her iki eğitime katılan toplam kadın ve erkek sayısı birbirine eşittir. Buna göre, pasta yapımı eğitimine katılan erkeklerin sayısı kaçtır?",
+    "options": {
+      "A": "30",
+      "B": "40",
+      "C": "50",
+      "D": "60",
+      "E": "80"
+    },
+    "sourcePage": "page_4_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 24,
+    "questionText": "(I) Üzerinde paralel çizgiler bulunan ve ürünlerin kimliği olarak kabul edilen barkod, siyah çubukların birleşiminden oluşur. (II) Günümüzde market alışverişlerinde kasada geçirilen süreyi kısaltan barkod, aynı zamanda sahteciliğin engellenmesinde de önemli bir görev üstlenir. (III) Plastik ürünlerin kalıplama yöntemiyle üretilmesini sağlayan ve ürünün içine yerleştirilen bu barkodlar, şimdilik üretilen plastik ürünlerin sadece %10'unda kullanılabiliyor. (IV) Özellikle ilaç sektöründe ortaya çıkan bu problemleri önlemek için ürünün içine yerleştirilebilen bir barkod tasarlandı. (V) Ancak barkodların yapıştırıldığı ürünler taklit edilebildiği gibi barkodlar da zamanla hasar görebiliyor. Yukarıdaki numaralanmış cümlelerden anlamlı bir paragraf oluşturulabilmesi için hangilerinin birbiriyle yer değiştirmesi gerekir?",
+    "options": {
+      "A": "I ve II",
+      "B": "I ve V",
+      "C": "II ve III",
+      "D": "III ve IV",
+      "E": "IV ve V"
+    },
+    "sourcePage": "page_4_vision_response.json",
+    "correctOptionId": "d"
+  },
+  {
+    "questionNumber": 25,
+    "questionText": "Adana, Bolu ve Denizli'de fabrikaları bulunan bir tekstil şirketinde üretilen bazı ürünler Grafik 1'de, bu fabrikalarda bir günde üretilen pantolon sayılarının fabrikalara göre dağılımı ise Grafik 2'de verilmiştir. Bolu fabrikasında bir günde 720 gömlek üretilmektedir. Her fabrikada, ürettiği her bir ürün çeşidinden eşit sayıda üretilmektedir. Buna göre, Adana fabrikasında bir günde üretilen pantolon sayısı kaçtır?",
+    "options": {
+      "A": "900",
+      "B": "960",
+      "C": "1000",
+      "D": "1080",
+      "E": "1200"
+    },
+    "sourcePage": "page_4_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 26,
+    "questionText": "Adana fabrikasında bir günde üretilen toplam ürün sayısı ile Denizli fabrikasında bir günde üretilen toplam ürün sayısı arasındaki fark 245'tir. Buna göre, bu üç fabrikada bir günde üretilen toplam kravat sayısı kaçtır?",
+    "options": {
+      "A": "250",
+      "B": "260",
+      "C": "275",
+      "D": "280",
+      "E": "300"
+    },
+    "sourcePage": "page_4_vision_response.json",
+    "correctOptionId": "d"
+  },
+  {
+    "questionNumber": 27,
+    "questionText": "Zeynep, normal süresi 9 dakika olan B videosunu 0,75 hızında, normal süresi bilinmeyen A videosunu ise 1 hızında izlemiştir. Zeynep, bu iki videoyu toplam 20 dakikada izlediğine göre, A videosunun normal süresi kaç dakikadır?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "11",
+      "D": "12",
+      "E": "14"
+    },
+    "sourcePage": "page_5_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 28,
+    "questionText": "Zeynep, normal süresi 12 dakika olan C videosunu da izlemiştir. Zeynep'in bu üç videoyu izlemesi, videoların toplam normal süresinden 15 dakika fazla sürmüştür. Buna göre, Zeynep C videosunu hangi hızda izlemiştir?",
+    "options": {
+      "A": "0,5",
+      "B": "0,6",
+      "C": "0,75",
+      "D": "0,8",
+      "E": "0,9"
+    },
+    "sourcePage": "page_5_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 29,
+    "questionText": "Bir davete katılan misafirlere ana yemek olarak et, tavuk veya balık; içecek olarak ise limonata, şalgam veya meyve suyu ikram edilmiştir. Davete katılan misafirlerin %30'u şalgam almış ve bu misafirlerin sayısı 60'tır. Misafirlerin %35'i et, %25'i ise tavuk almıştır. Buna göre, et alan misafir sayısı, tavuk alan misafir sayısından kaç fazladır?",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "30",
+      "E": "35"
+    },
+    "sourcePage": "page_5_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 30,
+    "questionText": "Davete katılan misafirlerin %40'ı balık, %50'si ise meyve suyu almıştır. Meyve suyu alan misafirlerin %20'si ana yemek olarak balık almıştır. Buna göre, balık alan misafirlerin yüzde kaçı limonata veya şalgam almıştır?",
+    "options": {
+      "A": "60",
+      "B": "65",
+      "C": "70",
+      "D": "75",
+      "E": "80"
+    },
+    "sourcePage": "page_5_vision_response.json",
+    "correctOptionId": "d"
+  },
+  {
+    "questionNumber": 31,
+    "questionText": "Limonata alan tüm misafirler ana yemek olarak tavuk, şalgam alan tüm misafirler ise ana yemek olarak et almıştır. Buna göre, misafirlerin yüzde kaçı ana yemek olarak tavuk, içecek olarak ise meyve suyu almıştır?",
+    "options": {
+      "A": "5",
+      "B": "8",
+      "C": "10",
+      "D": "12",
+      "E": "15"
+    },
+    "sourcePage": "page_5_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 32,
+    "questionText": "Bir basketbol oyuncusu, antrenmanda kullandığı 9 atışın isabet durumunu ve atışları kullandığı bölgeleri gösteren bir şema çizmiştir. Oyuncu, mavi çizginin dışından kullandığı atışlar potaya girerse 3, mavi çizginin içinden kullandığı atışlar potaya girerse 2 sayı kazanmakta, potaya girmeyen atışlardan ise sayı kazanamamaktadır. Buna göre, bu oyuncu antrenmanda kullandığı bu atışlardan takımına toplam kaç sayı kazandırmıştır?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "13",
+      "D": "15",
+      "E": "17"
+    },
+    "sourcePage": "page_6_vision_response.json",
+    "correctOptionId": "c"
+  },
+  {
+    "questionNumber": 33,
+    "questionText": "Bir takımın bir maçta kullandığı tüm atışların isabet durumu ve atışları kullandığı bölgeler aşağıdaki şemada verilmiştir. Bu takımın kullandığı tüm atışların %36'sı üçlük atışlardan oluşmaktadır. Buna göre, bu takımın kullandığı tüm ikilik atışların yüzde kaçı potaya girmiştir?",
+    "options": {
+      "A": "30",
+      "B": "35",
+      "C": "40",
+      "D": "45",
+      "E": "50"
+    },
+    "sourcePage": "page_6_vision_response.json",
+    "correctOptionId": "e"
+  },
+  {
+    "questionNumber": 34,
+    "questionText": "Bu takım maç boyunca toplam kaç sayı kazanmıştır?",
+    "options": {
+      "A": "80",
+      "B": "82",
+      "C": "84",
+      "D": "85",
+      "E": "88"
+    },
+    "sourcePage": "page_6_vision_response.json",
+    "correctOptionId": "c"
+  },
+  {
+    "questionNumber": 35,
+    "questionText": "Bir yarışma programında, yarışmacılar üzerinde puanların yazılı olduğu sekiz bölmeden oluşan bir çarkı çevirerek soru sorma hakkı kazanmaktadır. Başlangıçta 1000 puanı bulunan yarışmacı, çarkı çevirdiğinde okun gösterdiği bölmedeki soruyu doğru cevaplarsa o bölmede yazan sayı kadar puan kazanmakta, yanlış cevaplarsa o bölmede yazan sayı kadar puan kaybetmektedir. Yarışmaya katılan bir yarışmacı, çevirdiği çark sonrasında sorulan 3 sorudan 2'sini doğru, 1'ini yanlış cevaplamıştır. Buna göre, yarışmacının puanı en az kaç olabilir?",
+    "options": {
+      "A": "860",
+      "B": "880",
+      "C": "920",
+      "D": "940",
+      "E": "960"
+    },
+    "sourcePage": "page_6_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 36,
+    "questionText": "Yarışmaya katılan üç yarışmacının her biri, sorulan 3 sorudan 1'ini doğru, 2'sini yanlış cevaplamış ve yarışmayı 1000 puanla tamamlamıştır. Yarışmacılara sorulan 9 sorunun da puanının birbirinden farklı olduğu bilinmektedir. İlk yarışmacının doğru cevapladığı sorunun puanı 110, ikinci yarışmacının doğru cevapladığı sorunun puanı ise 30'dur. Buna göre, üçüncü yarışmacının doğru cevapladığı sorunun puanı kaçtır?",
+    "options": {
+      "A": "70",
+      "B": "80",
+      "C": "90",
+      "D": "100",
+      "E": "120"
+    },
+    "sourcePage": "page_7_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 37,
+    "questionText": "Yarışmaya katılan Ali, Buse ve Can adlı üç yarışmacının her biri 3 soruya cevap vermiştir. Ali'nin son puanı 1020, Buse'nin son puanı 760 ve Can'ın son puanı 1240'tır. Buna göre, I. Ali 2 doğru, 1 yanlış cevap vermiştir. II. Buse tüm sorulara yanlış cevap vermiştir. III. Can'ın cevapladığı her sorunun puanı 20'nin tam sayı katıdır. ifadelerinden hangileri kesinlikle doğrudur?",
+    "options": {
+      "A": "Yalnız I",
+      "B": "Yalnız II",
+      "C": "I ve II",
+      "D": "II ve III",
+      "E": "I, II ve III"
+    },
+    "sourcePage": "page_7_vision_response.json",
+    "correctOptionId": "e"
+  },
+  {
+    "questionNumber": 38,
+    "questionText": "Aylin, Burçin, Can, Doruk ve Esma adlı beş arkadaşın her biri farklı bir fıkra bilmektedir. Bu arkadaşlar birbirleriyle telefon görüşmeleri yaparak bildikleri fıkraları birbirlerine anlatmaktadır. İki kişi görüştüğünde, her biri diğerinin bildiği tüm fıkraları öğrenmektedir. Bu beş arkadaşın yaptığı görüşmelerin sırası aşağıdaki gibidir: 1. Burçin - Esma 2. Can - Doruk 3. Aylin - Doruk 4. Can - Esma Buna göre, dördüncü görüşmenin sonunda bu beş kişinin bildikleri fıkra sayılarının toplamı kaçtır?",
+    "options": {
+      "A": "12",
+      "B": "14",
+      "C": "16",
+      "D": "18",
+      "E": "20"
+    },
+    "sourcePage": "page_7_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 39,
+    "questionText": "İlk üç görüşme sırasıyla Aylin ile Burak, Burak ile Can, Deniz ile Ece arasında; beşinci görüşme ise Burak ile Ece arasında gerçekleşmiştir. Toplam 7 görüşme sonunda herkes tüm fıkraları bildiğine göre, altıncı görüşme aşağıdakilerden hangisi olamaz?",
+    "options": {
+      "A": "Aylin ile Deniz",
+      "B": "Burçin ile Doruk",
+      "C": "Aylin ile Ece",
+      "D": "Can ile Deniz",
+      "E": "Can ile Ece"
+    },
+    "sourcePage": "page_7_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 40,
+    "questionText": "İlk üç görüşme sırasıyla Aylin ile Burak, Burak ile Can ve Aylin ile Can arasında; beşinci ve altıncı görüşmeler ise sırasıyla Burak ile Ece ve Burak ile Can arasında gerçekleşmiştir. Altıncı görüşme sonunda herkesin dörder fıkra bildiği bilindiğine göre, dördüncü görüşme kimler arasında gerçekleşmiştir?",
+    "options": {
+      "A": "Aylin ile Deniz",
+      "B": "Burak ile Deniz",
+      "C": "Can ile Ece",
+      "D": "Can ile Doruk",
+      "E": "Deniz ile Ece"
+    },
+    "sourcePage": "page_8_vision_response.json",
+    "correctOptionId": "d"
+  },
+  {
+    "questionNumber": 41,
+    "questionText": "Beş soruya verilen cevapların doğru (✓) veya yanlış (X) olduğu aşağıdaki tabloda gösterilmiştir. Sağdaki sayılar o kişinin verdiği doğru cevap sayısını, alttaki sayılar ise o soruya verilen toplam doğru cevap sayısını göstermektedir. Buna göre, a+b+c toplamı kaçtır?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "E": "10"
+    },
+    "sourcePage": "page_8_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 42,
+    "questionText": "Cihan 5. soruya, Deniz 1. ve 2. sorulara, Emre ise 1. ve 4. sorulara doğru cevap vermiştir. Emre'nin doğru cevap sayısı 3 olduğuna göre, a.b çarpımı kaçtır?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "9",
+      "E": "12"
+    },
+    "sourcePage": "page_8_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 43,
+    "questionText": "Buse 2. ve 3. sorulara, Cihan 4. soruya, Emre ise 3. soruya doğru cevap vermiştir. Aylin'in doğru cevap sayısı 3, Buse ve Emre'nin doğru cevap sayısı 2'şer, Cihan'ın doğru cevap sayısı ise 3'tür. 2. ve 4. sorulara verilen toplam doğru cevap sayısı sırasıyla 3 ve 2'dir. 1. soruya ise toplam 2 doğru cevap verilmiştir. Buna göre, Aylin'in 1, 4 ve 5. sorulara verdiği cevaplar sırasıyla aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "X-X-✓",
+      "B": "X-✓-X",
+      "C": "✓-X-✓",
+      "D": "X-X-X",
+      "E": "✓-✓-X"
+    },
+    "sourcePage": "page_8_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 44,
+    "questionText": "ABC bir ikizkenar dik üçgen, [AD] ∩ [BC] = {E}, ADC bir ikizkenar üçgen, |AB| = |AC|, |AD| = |AC|, m(DEC)=75°, m(DCE)=x. Yukarıdaki verilere göre, x kaç derecedir?",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "25",
+      "D": "30",
+      "E": "35"
+    },
+    "sourcePage": "page_8_vision_response.json",
+    "correctOptionId": "d"
+  },
+  {
+    "questionNumber": 45,
+    "questionText": "ABC ikizkenar dik üçgen, |AC|=|BC|, m(ACB)=90°, |BE|=2 cm, |BD|=8√2 cm, |CE|+|DE|=20 cm. Yukarıdaki verilere göre, |AD|=x kaç cm'dir?",
+    "options": {
+      "A": "3√2",
+      "B": "4",
+      "C": "4√2",
+      "D": "6",
+      "E": "6√2"
+    },
+    "sourcePage": "page_8_vision_response.json",
+    "correctOptionId": "e"
+  },
+  {
+    "questionNumber": 46,
+    "questionText": "ABCD dikdörtgeni biçimindeki bir kâğıt üzerinde K noktası alınıyor. |DK|=3 cm olduğuna göre, |AD|=x kaç cm'dir?",
+    "options": {
+      "A": "√3",
+      "B": "2√3",
+      "C": "3√2",
+      "D": "4",
+      "E": "5"
+    },
+    "sourcePage": "page_9_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 47,
+    "questionText": "ABCD bir yamuk, AB // CD, |AB|=2|CD|, A, K, L, B noktaları doğrusal, |AK|=|KL|=|LB|, [AC] ∩ [DK] = {E}. Alan(KBCE)=78 cm² olduğuna göre, Alan(CDE) kaç cm² dir?",
+    "options": {
+      "A": "21",
+      "B": "24",
+      "C": "27",
+      "D": "30",
+      "E": "33"
+    },
+    "sourcePage": "page_9_vision_response.json",
+    "correctOptionId": "a"
+  },
+  {
+    "questionNumber": 48,
+    "questionText": "[AD] çaplı yarım çemberin merkezi O noktasıdır. B, C noktaları çember üzerinde, m(BCD)=107°, |OA|=|BC|. Yukarıdaki verilere göre, m(ODC)=x kaç derecedir?",
+    "options": {
+      "A": "43",
+      "B": "45",
+      "C": "47",
+      "D": "49",
+      "E": "51"
+    },
+    "sourcePage": "page_9_vision_response.json",
+    "correctOptionId": "c"
+  },
+  {
+    "questionNumber": 49,
+    "questionText": "Ayşe, Burak, Ceyda, Deniz, Emel, Filiz ve Giray'ın her biri, İstanbul ve Mardin şehirleri için hazırlanan tatil paketlerinden birini ve otobüs veya uçak seyahat araçlarından birini seçmiştir. • İstanbul'u seçenlerin sayısı Mardin'i seçenlerden fazladır. • Otobüsü seçenlerin sayısı uçağı seçenlerden fazladır. • Ceyda, Mardin tatil paketini ve uçak seyahatini seçmiştir. • Ayşe ve Emel, farklı tatil paketlerini ve aynı seyahat aracını seçmiştir. • Deniz ve Giray, aynı tatil paketini ve farklı seyahat araçlarını seçmiştir. • Ayşe ve Filiz, farklı tatil paketlerini ve farklı seyahat araçlarını seçmiştir. • Burak ve Deniz, farklı tatil paketlerini seçmiştir. Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+    "options": {
+      "A": "Emel ve Giray, aynı tatil paketini satın almıştır.",
+      "B": "Ceyda ve Filiz, aynı seyahat aracını seçmiştir.",
+      "C": "Deniz ve Emel, aynı tatil paketini satın almıştır.",
+      "D": "Ayşe ve Burak, aynı seyahat aracını seçmiştir.",
+      "E": "Burak ve Giray, farklı seyahat araçlarını seçmiştir."
+    },
+    "sourcePage": "page_9_vision_response.json",
+    "correctOptionId": "b"
+  },
+  {
+    "questionNumber": 50,
+    "questionText": "Şekildeki yapbozda parçalar sadece kaydırılarak yerinden çıkarılabilmektedir. Buna göre, yapbozun tamamının sökülebilmesi için parçaların çıkarılma sırası aşağıdakilerden hangisi olabilir?",
+    "options": {
+      "A": "E-D-C",
+      "B": "A-B-C",
+      "C": "C-D-A",
+      "D": "E-A-B",
+      "E": "B-C-D"
+    },
+    "sourcePage": "page_10_vision_response.json",
+    "correctOptionId": "d"
+  }
+]

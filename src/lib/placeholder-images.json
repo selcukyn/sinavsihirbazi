@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "mathematics",
+      "description": "An image representing mathematics",
+      "imageUrl": "https://images.unsplash.com/photo-1754304342484-3256d59778e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWF0aGVtYXRpY3MlMjBlcXVhdGlvbnN8ZW58MHx8fHwxNzU4NjAyNzgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mathematics equations"
+    },
+    {
+      "id": "turkish",
+      "description": "An image representing Turkish language",
+      "imageUrl": "https://images.unsplash.com/photo-1721552008286-0b839c033140?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxib29rcyUyMGxpYnJhcnl8ZW58MHx8fHwxNzU4NjkwNDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "books library"
+    }
+  ]
+}
