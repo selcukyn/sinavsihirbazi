@@ -52,4 +52,5 @@ export interface SessionPayload {
     username: string;
     role: UserRole;
     expiresAt: Date;
+    exp?: number; // JWT expiration time claim
 }

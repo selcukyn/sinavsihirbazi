@@ -52,7 +52,6 @@ export async function loginAction(prevState: any, formData: FormData) {
         userId: user.id!,
         username: user.username,
         role: user.role,
-        expiresAt: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000),
     });
 
     redirect('/');

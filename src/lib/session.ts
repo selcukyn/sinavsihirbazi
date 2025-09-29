@@ -7,10 +7,10 @@ const secretKey = process.env.SESSION_SECRET;
 const encodedKey = new TextEncoder().encode(secretKey);
 
 export async function encrypt(payload: any) {
+  // exp claim'i payload içinde zaten ayarlandığı için setExpirationTime kaldırıldı.
   return new SignJWT(payload)
     .setProtectedHeader({ alg: 'HS256' })
     .setIssuedAt()
-    .setExpirationTime('7d')
     .sign(encodedKey);
 }
 
@@ -21,16 +21,23 @@ export async function decrypt(session: string | undefined = '') {
     });
     return payload as SessionPayload;
   } catch (error) {
-    console.log('Failed to verify session');
+    // Hata ayıklama için daha açıklayıcı bir log
+    console.error('Oturum doğrulaması başarısız:', error);
     return null;
   }
 }
 
-export async function createSession(payload: SessionPayload) {
+export async function createSession(payload: Omit<SessionPayload, 'expiresAt' | 'exp'>) {
   const expiresAt = new Date(Date.now() + 7 * 24 * 60 * 60 * 1000);
-  payload.expiresAt = expiresAt;
+  const sessionPayload: SessionPayload = {
+    ...payload,
+    expiresAt: expiresAt,
+  };
   
-  const session = await encrypt(payload);
+  // JWT standardı olan `exp` alanını saniye cinsinden ekle
+  const sessionToEncrypt = { ...sessionPayload, exp: Math.floor(expiresAt.getTime() / 1000) };
+
+  const session = await encrypt(sessionToEncrypt);
 
   cookies().set('session', session, {
     httpOnly: true,
@@ -41,7 +48,7 @@ export async function createSession(payload: SessionPayload) {
   });
 }
 
-export async function getSession() {
+export async function getSession(): Promise<SessionPayload | null> {
   const cookie = cookies().get('session')?.value;
   const session = await decrypt(cookie);
   return session;
