@@ -8,7 +8,7 @@ const secretKey = process.env.SESSION_SECRET;
 const encodedKey = new TextEncoder().encode(secretKey);
 
 export async function encrypt(payload: any) {
-  // exp claim'i payload içinde zaten ayarlandığı için setExpirationTime kaldırıldı.
+  // exp claim'i payload içinde zaten ayarlandığı için ek süre ayarı kaldırıldı.
   return new SignJWT(payload)
     .setProtectedHeader({ alg: 'HS256' })
     .setIssuedAt()
