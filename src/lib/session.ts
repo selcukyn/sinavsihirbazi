@@ -1,3 +1,4 @@
+'use server';
 import 'server-only';
 import { SignJWT, jwtVerify } from 'jose';
 import { cookies } from 'next/headers';
@@ -15,6 +16,10 @@ export async function encrypt(payload: any) {
 }
 
 export async function decrypt(session: string | undefined = '') {
+  // Eğer session cookie'si yoksa veya boşsa, doğrulama denemeden null dön.
+  if (!session) {
+    return null;
+  }
   try {
     const { payload } = await jwtVerify(session, encodedKey, {
       algorithms: ['HS256'],
@@ -41,7 +46,7 @@ export async function createSession(payload: Omit<SessionPayload, 'expiresAt' | 
 
   cookies().set('session', session, {
     httpOnly: true,
-    secure: true,
+    secure: process.env.NODE_ENV === 'production',
     expires: expiresAt,
     sameSite: 'lax',
     path: '/',
