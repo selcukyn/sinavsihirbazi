@@ -26,8 +26,8 @@ export async function decrypt(session: string | undefined = '') {
     });
     return payload as SessionPayload;
   } catch (error) {
-    // Hata ayıklama için daha açıklayıcı bir log
-    console.error('Oturum doğrulaması başarısız:', error);
+    // Hata durumunda (örn. geçersiz token, süresi dolmuş token) null dön.
+    console.error('Failed to verify session:', error);
     return null;
   }
 }
